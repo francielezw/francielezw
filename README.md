@@ -7,7 +7,7 @@
 
 🙂 Pronouns: ela/ dela
 
-Tenho conhecimento/estou estudando nos seguintes temas:
+Tenho conhecimento/estou estudando os seguintes temas:
 
 * Testes manuais
 * Testes de dispositivos móveis
