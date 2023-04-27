@@ -14,6 +14,13 @@ Tenho conhecimento/estou estudando os seguintes temas:
 * Testes funcionais e Não funcionais 
 * Testes de Regressão
 * Testes automatizados de Front-end e Back-end
+* Cypress
+* Selenium
+* Cucumber
+* Pyton
+* Mentoria em Teste de Software **Júlio de Lima**
+* API Rest **Júlio de Lima**
+* Testes em contexto ágil / BDD, ATDD,TDD
 
 
 ![Franciele Zwirtes' GitHub stats](https://github-readme-stats.vercel.app/api?username=francielezw&show_icons=true&theme=synthwave&count_private=true) 
