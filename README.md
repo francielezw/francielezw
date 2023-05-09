@@ -21,7 +21,7 @@ Tenho conhecimento/estou estudando os seguintes temas:
 * Postman
 * Mentoria em Teste de Software **Júlio de Lima**
 * API Rest **Júlio de Lima**
-* Testes em contexto ágil / BDD, ATDD,TDD
+* Testes em contexto ágil / BDD
 * estrutura de dados relacional (SQL) e não-relacional (NoSQL).
 
 ![Franciele Zwirtes' GitHub stats](https://github-readme-stats.vercel.app/api?username=francielezw&show_icons=true&theme=synthwave&count_private=true) 
