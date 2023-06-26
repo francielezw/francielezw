@@ -1,6 +1,6 @@
 ## Muito Prazer! Eu sou  Franciele Zwirtes 
 
-🚀Estou em transição de carreira, buscando minha primeira oportunidade na área de TI atuando como QA/Testadora de Software. 
+🚀Estou buscando minha primeira oportunidade na área de TI atuando como QA/Testadora de Software. 
 
 
 📚 Estudando Análise e Desenvolvimento de sistemas na faculdade Anhanguera
