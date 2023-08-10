@@ -29,6 +29,7 @@ Ferramentas:
 - Android Studio
 - IntelliJ
 - Jira
+- Qase | Test management software for QA teamsResponsável
 
 Linguagem de programação:
 - JavaScript
