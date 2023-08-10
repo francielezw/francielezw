@@ -39,25 +39,7 @@ Cursos em Andamento:
 - Testes de API Rest (Júlio de Lima)
 - Aprenda JAVA + Projetos Reais (2023) (Udemy)
 
-Analista de teste/QAAnalista de teste/QA
-SouJunior Labs
-jun de 2023 - até o momento · 3 mjun de 2023 - até o momento · 3 m
-Responsável por auxiliar nos testes do aplicativo PetJournal na plataforma web e Mobile (Android e IOS), o qual tem o objetivo de que os tutores de animais de estimação registrem e acompanhem informações importantes sobre seus animais de estimação, como vacinas, exames, tratamentos, consumo de ração, etc.. o que ajudará a melhorar a saúde e o bem-estar dos animais.
 
-- Como QA realizo as seguintes funções:
-* Elaboração de planos de testes;
-* Analise e planejamento de testes e levantamento de cenários;
-* Elaboração de evidências de testes;
-* Automação de testes de API;
-* Elaboração de casos de testes em Gherkin;
-* Execução de testes manuais para o front-end e back-end.
-
-- Tecnologias:
-* Ferramentas de Gestão de Defeitos: Jira
-* Processos de Desenvolvimento - Ágil (Scrum)
-* Postman - API Rest
-* Teste Mobile 
-* Testes Web - Testes Exploratórios, Testes Funcionais 
 * Sistemas de controle de versão (Git)
 * Qase | Test management software for QA teams
 
