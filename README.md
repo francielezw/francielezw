@@ -10,15 +10,17 @@ Estou em busca de uma oportunidade atuando como QA/Testadora de Software. Atualm
 - Comunicação
 
 Possuo conhecimento nos seguintes temas:
-* BDD
+* Modelagem de casos de testes usando BDD (Behavior-Driven Development)
+* Gherkin
 * Processos de Desenvolvimento Modelo Cascata e Ágil
+* Conhecimento em versionamento de código com Git
 * Testes Web
 * Testes Mobile
 * Testes funcionais e Não funcionais 
 * Testes de Regressão
 * Testes Exploratórios e Checagem
-* Testes automatizados de Front-end e Back-end
-* Scrum
+* Execução de testes manuais e automatizados em ambientes de Front-end e Back-end
+* Familiaridade com ferramentas de gerenciamento de projetos Scrum
 
 Ferramentas:
 - Postman
@@ -30,6 +32,8 @@ Ferramentas:
 - IntelliJ
 - Jira
 - Qase | Test management software for QA teamsResponsável
+- Genymotion
+- Newman
 
 Linguagem de programação:
 - JavaScript
@@ -38,7 +42,6 @@ Linguagem de programação:
 Cursos em Andamento:
 - Mentoria em Testes de Software (Júlio de Lima)
 - Testes de API Rest (Júlio de Lima)
-- Aprenda JAVA + Projetos Reais (2023) (Udemy)
 
 
 * Sistemas de controle de versão (Git)
