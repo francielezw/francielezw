@@ -2,13 +2,6 @@
 
 🙂 Pronouns: ela/ dela
 
-Estou em busca de uma oportunidade atuando como QA/Testadora de Software. Atualmente estou estudando Análise e Desenvolvimento de sistemas na faculdade Anhanguera. Possuo experiência profissional no qual pude desenvolver as seguintes habilidades: 
-- Resolução de problemas
-- Organização
-- Trabalho em equipe
-- Atenção aos detalhes
-- Comunicação
-
 Possuo conhecimento nos seguintes temas:
 * Modelagem de casos de testes usando BDD (Behavior-Driven Development)
 * Gherkin
