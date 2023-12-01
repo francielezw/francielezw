@@ -33,7 +33,6 @@ Linguagem de programação:
 - Java
 
 Cursos em Andamento:
-- Mentoria em Testes de Software (Júlio de Lima)
 - Testes de API Rest (Júlio de Lima)
 
 
