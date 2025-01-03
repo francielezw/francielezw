@@ -1,21 +1,21 @@
-## Muito Prazer! Eu sou  Franciele Zwirtes 
-
-🙂 Pronouns: ela/ dela
+## Muito Prazer! Eu sou  Franciele Zwirtes Olá, meu nome é Franciele Zwirtes,atualmente sou Estagiária em Qualidade de Software na empresa Healthbit. Destaco-me por meu forte espírito de equipe, flexibilidade e agilidade na execução das tarefas. Sou uma profissional engajada, sempre em busca de aprimoramento contínuo e atualização do meu conhecimento. Estou determinada a contribuir para o alcance de objetivos e a evolução do meu desempenho na área.
 
 Possuo conhecimento nos seguintes temas:
 * Modelagem de casos de testes usando BDD (Behavior-Driven Development)
 * Gherkin
-* Processos de Desenvolvimento Modelo Cascata e Ágil
+* Processos de Desenvolvimento Modelo Ágil
 * Conhecimento em versionamento de código com Git
 * Testes Web
 * Testes Mobile
+* Testes de API com Postman
 * Testes funcionais e Não funcionais 
 * Testes de Regressão
-* Testes Exploratórios e Checagem
+* Testes Exploratórios 
 * Execução de testes manuais e automatizados em ambientes de Front-end e Back-end
-* Familiaridade com ferramentas de gerenciamento de projetos Scrum
+* Familiaridade com ferramentas de gerenciamento de projetos 
 
 Ferramentas:
+- Qase
 - Postman
 - Git e GitHub
 - Selenium Webdriver
@@ -24,20 +24,18 @@ Ferramentas:
 - Android Studio
 - IntelliJ
 - Jira
-- Qase | Test management software for QA teamsResponsável
 - Genymotion
+- Appium
 - Newman
+
 
 Linguagem de programação:
 - JavaScript
-- Java
-
-Cursos em Andamento:
-- Testes de API Rest (Júlio de Lima)
 
 
-* Sistemas de controle de versão (Git)
-* Qase | Test management software for QA teams
+🙂 Pronouns: ela/ dela
+
+
 
 ![Franciele Zwirtes' GitHub stats](https://github-readme-stats.vercel.app/api?username=francielezw&show_icons=true&theme=synthwave&count_private=true) 
 
