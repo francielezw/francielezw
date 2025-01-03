@@ -1,4 +1,4 @@
-## Muito Prazer! Eu sou  Franciele Zwirtes Olá, meu nome é Franciele Zwirtes,atualmente sou Estagiária em Qualidade de Software na empresa Healthbit. Destaco-me por meu forte espírito de equipe, flexibilidade e agilidade na execução das tarefas. Sou uma profissional engajada, sempre em busca de aprimoramento contínuo e atualização do meu conhecimento. Estou determinada a contribuir para o alcance de objetivos e a evolução do meu desempenho na área.
+## Muito Prazer! Eu sou  Franciele Zwirtes Olá, meu nome é Franciele Zwirtes, atualmente sou Estagiária em Qualidade de Software na empresa Healthbit. Destaco-me por meu forte espírito de equipe, flexibilidade e agilidade na execução das tarefas. Sou uma profissional engajada, sempre em busca de aprimoramento contínuo e atualização do meu conhecimento. Estou determinada a contribuir para o alcance de objetivos e a evolução do meu desempenho na área.
 
 Possuo conhecimento nos seguintes temas:
 * Modelagem de casos de testes usando BDD (Behavior-Driven Development)
