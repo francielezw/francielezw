@@ -1,5 +1,5 @@
 ## 
-Olá, meu nome é Franciele Zwirtes, atualmente atuo como QA na empresa HealthtBit. Sou uma profissional dedicada e apaixonada pela área de Qualidade de Software, com experiência em testar novas funcionalidades e assegurar a excelência dos produtos entregues. Minha atuação é marcada por um forte espírito de equipe, atenção aos detalhes, flexibilidade e agilidade na execução de tarefas. Estou sempre aberta a novos desafios e buscando aprimorar meus conhecimentos para agregar ainda mais valor ao meu trabalho.
+## Olá, meu nome é Franciele Zwirtes, atualmente atuo como QA na empresa HealthtBit. Sou uma profissional dedicada e apaixonada pela área de Qualidade de Software, com experiência em testar novas funcionalidades e assegurar a excelência dos produtos entregues. Minha atuação é marcada por um forte espírito de equipe, atenção aos detalhes, flexibilidade e agilidade na execução de tarefas. Estou sempre aberta a novos desafios e buscando aprimorar meus conhecimentos para agregar ainda mais valor ao meu trabalho.
 
 Ao longo da minha jornada, pude adquirir conhecimento com a execução das seguintes tarefas:
 
@@ -23,7 +23,7 @@ Também pude trabalhar com as seguintes ferramentas:
 * Android Studio
 * Genymotion
 
-Tenho prazer em atuar na área de QA, garantindo que cada entrega seja feita com qualidade e atendendo às expectativas dos usuários finais. Estou sempre disposta a aprender e crescer profissionalmente, buscando contribuir para o sucesso das equipes em que atuo. 🚀
+## Tenho prazer em atuar na área de QA, garantindo que cada entrega seja feita com qualidade e atendendo às expectativas dos usuários finais. Estou sempre disposta a aprender e crescer profissionalmente, buscando contribuir para o sucesso das equipes em que atuo. 🚀
 
 
 🙂 Pronouns: ela/ dela
