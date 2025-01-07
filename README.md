@@ -1,36 +1,29 @@
-## Muito Prazer! Eu sou  Franciele Zwirtes Olá, meu nome é Franciele Zwirtes, atualmente sou Estagiária em Qualidade de Software na empresa Healthbit. Destaco-me por meu forte espírito de equipe, flexibilidade e agilidade na execução das tarefas. Sou uma profissional engajada, sempre em busca de aprimoramento contínuo e atualização do meu conhecimento. Estou determinada a contribuir para o alcance de objetivos e a evolução do meu desempenho na área.
+## 
+Olá, meu nome é Franciele Zwirtes, atualmente atuo como QA na empresa HealthtBit. Sou uma profissional dedicada e apaixonada pela área de Qualidade de Software, com experiência em testar novas funcionalidades e assegurar a excelência dos produtos entregues. Minha atuação é marcada por um forte espírito de equipe, atenção aos detalhes, flexibilidade e agilidade na execução de tarefas. Estou sempre aberta a novos desafios e buscando aprimorar meus conhecimentos para agregar ainda mais valor ao meu trabalho.
 
-Possuo conhecimento nos seguintes temas:
-* Modelagem de casos de testes usando BDD (Behavior-Driven Development)
-* Gherkin
-* Processos de Desenvolvimento Modelo Ágil
-* Conhecimento em versionamento de código com Git
-* Testes Web
-* Testes Mobile
-* Testes de API com Postman
-* Testes funcionais e Não funcionais 
-* Testes de Regressão
-* Testes Exploratórios 
-* Execução de testes manuais e automatizados em ambientes de Front-end e Back-end
-* Familiaridade com ferramentas de gerenciamento de projetos 
+Ao longo da minha jornada, pude adquirir conhecimento com a execução das seguintes tarefas:
 
-Ferramentas:
-- Qase
-- Postman
-- Git e GitHub
-- Selenium Webdriver
-- Cypress
-- Visual Studio Code
-- Android Studio
-- IntelliJ
-- Jira
-- Genymotion
-- Appium
-- Newman
+* Modelagem de casos de testes com BDD e Gherkin, aplicando processos de desenvolvimento ágil com Scrum.
+* Testes Web, Mobile e de API (Postman)
+* Testes Funcionais, Não Funcionais, de Regressão e Exploratórios
+* Execução de testes manuais
+* Execução de testes automatizados com a criação de scripts com JavaScript e Cypress
+* Versionamento de código com Git e integração com o GitHub para CI/CD
 
+Também pude trabalhar com as seguintes ferramentas:
 
-Linguagem de programação:
-- JavaScript
+* Qase
+* Jira
+* Postman
+* GitHub
+* Newman
+* Selenium Webdriver
+* Appium
+* Visual Studio Code 
+* Android Studio
+* Genymotion
+
+Tenho prazer em atuar na área de QA, garantindo que cada entrega seja feita com qualidade e atendendo às expectativas dos usuários finais. Estou sempre disposta a aprender e crescer profissionalmente, buscando contribuir para o sucesso das equipes em que atuo. 🚀
 
 
 🙂 Pronouns: ela/ dela
